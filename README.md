@@ -19,8 +19,8 @@ Next.js · TypeScript · Supabase · fine-tuned Whisper on Hugging Face · Gemin
 
 ## 🏆 Hackathons
 
-- 🥇 **1st place**, IEEE OPSYNC Hackathon 2026 · VeritasLearn, AI adaptive learning (backend)
-- 🥇 **1st place**, DevHeist DevOps Hackathon 2026 · LifePass, identity management (backend)
+- 🥇 **1st place**, IEEE OPSYNC Hackathon 2026 · VeritasLearn, AI learning app (prototype built with Farouk)
+- 🥇 **1st place**, DevHeist DevOps Hackathon 2026 · LifePass, medical records shared by QR code (prototype built with Farouk)
 - 🛡️ **4th place**, IEEE CyberThreats CTF 2026 · web penetration testing
 - 🏅 **Top 5 / 30**, HACK4UCAR 2026 · UCARIA, RAG LLM assistant (front end)
 
